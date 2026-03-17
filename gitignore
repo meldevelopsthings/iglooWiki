@@ -1,0 +1,6 @@
+# Ignore .obsidian folder, this is the markdown editor I used so it's not necessary to include.
+.obsidian/
+.vault/
+templates/
+guide.md
+.DS_Store
