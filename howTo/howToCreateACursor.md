@@ -5,7 +5,7 @@ You only need one script to get this to work, and you can download it from the G
 This then needs to be applied to the IglooManager object in Unity, don't worry about the World Canvas property, I haven't got that far yet.
 
 Now for you to get this working, you will need to understand what the script is doing. *TL;DR is that it gets the main camera to shoot out a raycast from it's forward vector when either mouse left or gamepad south is pressed.*
-![](src/img/iglooPlayerInputScriptSnippet.png)
+![](/src/img/iglooPlayerInputScriptSnippet.png)
 
 firePressed is just checking for a button input, this is where you can edit that.
 
