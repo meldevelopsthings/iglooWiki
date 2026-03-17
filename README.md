@@ -3,6 +3,6 @@ This repo contains a bunch of different documentation files for dealing with the
 
 Please annotate this with stuff you run into that is a pain.
 ## Index
-- [](/Unresolved Filepath)
-- []()
-- []()
+- [Unresolved Filepath](commonIssues/unresolvedFilepath)
+- [How to Create a Cursor](howTo/howToCreateACursor)
+- [How to Display UI](howTo/howToDisplayUI)
