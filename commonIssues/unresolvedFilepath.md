@@ -10,4 +10,4 @@ Thankfully this is a simple process where you simply:
 - Test and it should work.
 
 Here's an example of what you should have:
-![](src/img/correctedFilePath.png)
+![](/src/img/correctedFilePath.png)
