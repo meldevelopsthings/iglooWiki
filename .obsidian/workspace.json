@@ -11,10 +11,14 @@
             "id": "89c3ff0e5c406ff2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of README"
             }
           }
         ]
@@ -178,6 +185,18 @@
   },
   "active": "89c3ff0e5c406ff2",
   "lastOpenFiles": [
+    "How to/How to create a cursor.md",
+    "src/img/iglooPlayerInputScriptSnippet.png",
+    "src/img/Screenshot 2026-03-17 201252.png",
+    "How to/How to display UI.md",
+    "How to",
+    "README.md",
+    "src/img/canvasCorrection.png",
+    "Common Issues/Unresolved Filepath.md",
+    "src/img/correctedFilePath.png",
+    "src/img",
+    "src",
+    "Common Issues",
     "gitignore",
     "Welcome.md"
   ]
