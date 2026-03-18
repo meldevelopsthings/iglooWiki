@@ -13,6 +13,8 @@ cam just gets the **main** camera, and ensures it's not null.
 
 The last line here basically just returns if a raycast that is shot out from the camera's forward vector results in a RaycastHit. This results in the "hit" variable, that is basically the **collider** you hit, not the object. To access this, and then the gameObject of this collider, simply use hit.collider.gameObject.
 
-From here, you basically just need to have your main camera set up in such a way that; the centre of the camera can be moved via player input, and displays a crosshair for clarity. You can achieve this in many ways, but likely you would want to rotate the main camera when the controller stick is pushed.
+From here, you basically just need to have your main camera set up in such a way that; the centre of the camera can be moved via player input, and displays a crosshair for clarity. **There's a script for this and it's easy to setup if you know what to do.** 
 
-By default, the south button on a game controller is what is used to "click".
+Basically, head into Unity package manager and go to your project's igloo package. From here, just click the samples tab and select the player input system to import. As well as this, head into your project settings and click on the Player settings, in here open other settings and scroll until you find "Active Input Handling". **Set this value to both.**
+
+Now you should have basic player input. By default, the south button on a game controller is what is used to "click".
