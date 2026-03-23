@@ -9,7 +9,7 @@ Now for you to get this working, you will need to understand what the script is 
 
 firePressed is just checking for a button input, this is where you can edit that.
 
-cam just gets the **main** camera, and ensures it's not null.
+cam just gets the **main** camera, and ensures it's not null. **MAKE SURE YOU HAVE NO MAIN CAMERAS IN YOUR SCENE, ONE SHOULD SPAWN DURING RUNTIME.**
 
 The last line here basically just returns if a raycast that is shot out from the camera's forward vector results in a RaycastHit. This results in the "hit" variable, that is basically the **collider** you hit, not the object. To access this, and then the gameObject of this collider, simply use hit.collider.gameObject.
 
