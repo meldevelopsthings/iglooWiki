@@ -2,4 +2,4 @@ The Igloo manager needs to be set up to your Unity by being installed in a proje
 
 This shouldn't be an issue for the team member who creates the project, and the initial github.
 
-Later team members will need to download the manager and install it in a new, blank project. Then pull the github project to your machine, ignore errors telling you the manager isn't installed, and re-install it on the group project.
+Later team members will need to download the manager and install it in a new, blank project. Then pull the github project to your machine, it will try and use your teammate's file paths. Ignore this, and the errors telling you the manager isn't installed. Re-install it on the group project.
