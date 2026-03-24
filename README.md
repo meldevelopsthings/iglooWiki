@@ -6,4 +6,4 @@ Please annotate this with stuff you run into that is a pain.
 - [Unresolved Filepath](/commonIssues/unresolvedFilepath.md)
 - [How to Create a Cursor and Basic Input](/howTo/howToCreateACursor.md)
 - [How to Display UI](/howTo/howToDisplayUI.md)
-- [How to USe your own movement](/howTo/How to Use your own movement.md/)
+- [How to USe your own movement](/howTo/How to Use your own movement.md)
