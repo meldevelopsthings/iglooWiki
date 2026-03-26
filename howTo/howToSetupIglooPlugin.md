@@ -4,4 +4,4 @@ The Igloo plugin needs to be installed while inside a project. To open a project
 
 This shouldn't be an issue for the team member who creates the project, and the initial github.
 
-Later team members will need to download the manager and install it in a new, blank project. Then pull the github project to your machine, it will try and use your teammate's file paths. Ignore this, and the errors telling you the manager isn't installed. Re-install it on the group project.
+Later team members will need to download the manager and install it in a new, blank project. Then pull the github project to your machine. It will throw an error while trying to resolve packages, trying to use your teammate's file paths. Ignore this, and the errors telling you the manager isn't installed. Re-install the plugin from your dowload onto the group project.
