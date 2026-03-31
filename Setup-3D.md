@@ -10,7 +10,7 @@ Once you have the .tgz file installed, we want to simply make a blank 3D project
 
 **This won't actually install the package into your project, but it's still important.** This is down to how the Unity package manager handles *locally* installed packages: it looks for the directory of where the package is stored on the local device. This presents issues when you try and pull this project file from a Github repository for collaboration, as it only tries to look at that one specified filepath, which shouldn't return anything.
 
-Doing this first step of actually including the package file *inside* of the project itself should prevent any issue when pulling on different devices, see [here for more info relating to this issue.](commonIssues/unresolvedFilepath)
+Doing this first step of actually including the package file *inside* of the project itself should prevent any issue when pulling on different devices, see [here for more info relating to this issue.](commonIssues/unresolvedFilepath.md)
 
 Now, let's install the package. Head to the Unity package manager window, and click on the plus icon in the top left corner. **Select install package from tarball.**
 
