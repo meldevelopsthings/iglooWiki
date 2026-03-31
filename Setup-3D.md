@@ -30,7 +30,7 @@ If you now take a look at your package manager, you should see this:
 
 ![](src/img/packageManagerAfterInstallation.png)
 
-This is everything that you would need to get started working with the igloo room, but this **doesn't include player input.** For that, [see here.](howToImportPlayerInput.md) 
+This is everything that you would need to get started working with the igloo room, but this **doesn't include player input.** For that, [see here.](howTo/howToImportPlayerInput.md) 
 # Demo
 Here is the demo for the initial setup:
 ![](src/img/iglooDemo.png)
